@@ -1,0 +1,27 @@
+{
+            background-color: #d3eefc;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .converter-card {
+            background-color: #fff9d9;
+            border-radius: 20px;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+            padding: 50px;
+            max-width: 1000px;
+            margin: 50px auto;
+            text-align: center;
+        }
+        .btn-custom {
+            background-color: #18a999;
+            color: white;
+            margin: 5px;
+        }
+        .btn-custom:hover {
+            background-color: #12877a;
+        }
+        .card-content {
+            background-color: #ffe0a5;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
